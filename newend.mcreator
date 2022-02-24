@@ -1,0 +1,89 @@
+{
+  "mod_elements": [
+    {
+      "name": "ZynnLog",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zynn_log"
+    },
+    {
+      "name": "ZynnLeaves",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zynn_leaves"
+    },
+    {
+      "name": "ZynnForest",
+      "type": "structure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zynn_forest"
+    },
+    {
+      "name": "Chainplant",
+      "type": "plant",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainplant"
+    },
+    {
+      "name": "ChainplantEdge",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainplant_edge"
+    },
+    {
+      "name": "Chainplantstructure",
+      "type": "structure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainplantstructure"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.the_ends_new_beginning.chainplant_edge": "Linkplant Edge",
+      "block.newend.zynn_leaves": "Zynn Leaves",
+      "block.the_ends_new_beginning.zynn_log": "Zynn Log",
+      "block.the_ends_new_beginning.chainplant": "Linkplant",
+      "block.the_ends_new_beginning.zynn_leaves": "Zynn Leaves",
+      "block.newend.chainplant": "Linkplant",
+      "block.newend.chainplant_edge": "Linkplant Edge",
+      "block.newend.zynn_log": "Zynn Log"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "newend",
+    "modName": "The End\u0027s New Beginning",
+    "version": "1.0.0",
+    "author": "dooli, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.theendsnewbeginning",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

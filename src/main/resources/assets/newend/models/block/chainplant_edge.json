@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "newend:blocks/e",
+    "top": "newend:blocks/e",
+    "side": "newend:blocks/e",
+    "overlay": "newend:blocks/e",
+    "particle": "newend:blocks/e"
+  }
+}

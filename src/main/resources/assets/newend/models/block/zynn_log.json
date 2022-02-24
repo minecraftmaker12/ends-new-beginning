@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "newend:blocks/wood",
+    "up": "newend:blocks/wood",
+    "north": "newend:blocks/wood",
+    "east": "newend:blocks/wood",
+    "south": "newend:blocks/wood",
+    "west": "newend:blocks/wood",
+    "particle": "newend:blocks/wood"
+  }
+}
